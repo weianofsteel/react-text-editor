@@ -8,7 +8,7 @@ const Home = () => {
             <Grid container>
                 <Grid item xs={3}></Grid>
                 <Grid item xs={6} style={{textAlign:'center'}}>
-                    <div style={{fontFamily:'Roboto', fontSize:'2rem'}}>React Text Editor</div>
+                    <div style={{fontFamily:'Roboto', fontSize:'2.2rem'}}>React Text Editor</div>
                 </Grid>
                 <Grid item xs={3}></Grid>
                 <Grid item xs={3}></Grid>
